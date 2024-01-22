@@ -1,4 +1,4 @@
-# awwward-rebuild-SOTD--2
+# SOTD-website
 
 [![JS Standard Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://www.awwwards.com/sites/exo-ape)
 
